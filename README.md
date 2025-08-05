@@ -2,7 +2,7 @@
 
 2. npx expo start
 
-SCREEN :
+some screens to see :
 
 
 <img width="300" height="600" alt="Capture d'écran 2025-05-07 133943" src="https://github.com/user-attachments/assets/cb483f2f-2350-4bf5-b364-23011bc06b73" />
@@ -19,14 +19,4 @@ SCREEN :
 <img width="300" height="600" alt="Capture d'écran 2025-05-07 134619" src="https://github.com/user-attachments/assets/2cb21df2-2f60-4fcf-b412-82ec2cc5c92b" />
 
 
-
-
-
-![WhatsApp Image 2025-08-05 à 02 33 51_6eab602b](https://github.com/user-attachments/assets/080281b6-32ce-457c-b67d-9a36ff470a87)
-![WhatsApp Image 2025-08-05 à 02 33 52_a470d0a4](https://github.com/user-attachments/assets/55ceceb8-acd5-41b6-8c60-6cbdbd63e5f6)
-![WhatsApp Image 2025-08-05 à 02 33 53_e0669cff](https://github.com/user-attachments/assets/1d144317-7d1b-464c-96f4-ddff47f08b88)
-![WhatsApp Image 2025-08-05 à 02 33 51_80cebf4d](https://github.com/user-attachments/assets/cdaa29b8-2b56-4176-ad14-c2a5fc94d88b)
-![WhatsApp Image 2025-08-05 à 02 33 52_bb9b4350](https://github.com/user-attachments/assets/f8484b25-d5ac-4fa3-ad99-ce009b0e4669)
-![WhatsApp Image 2025-08-05 à 02 33 52_08f8b558](https://github.com/user-attachments/assets/fe7216e5-636e-4d96-bcc7-4655774385b5)
-![WhatsApp Image 2025-08-05 à 02 42 20_7b0b73a4](https://github.com/user-attachments/assets/f0acc655-7569-44c7-868d-583fd4d3b7f7)
 
