@@ -5,7 +5,7 @@
 SCREEN :
 
 
-<img width="200" height="200" alt="Capture d'écran 2025-05-07 133943" src="https://github.com/user-attachments/assets/cb483f2f-2350-4bf5-b364-23011bc06b73" />
+<img width="300" height="500" alt="Capture d'écran 2025-05-07 133943" src="https://github.com/user-attachments/assets/cb483f2f-2350-4bf5-b364-23011bc06b73" />
 <img width="200" height="200" alt="Capture d'écran 2025-05-07 133957" src="https://github.com/user-attachments/assets/ce86ec49-a7b7-4b3a-b2b3-d3163a14f333" />
 <img width="497" height="1022" alt="Capture d'écran 2025-05-07 134031" src="https://github.com/user-attachments/assets/40d50548-823c-45cb-ac76-a3885fa6c6ef" />
 <img width="494" height="1028" alt="Capture d'écran 2025-05-07 134011" src="https://github.com/user-attachments/assets/912831ce-5e68-4d6d-a048-181d7d7b49e0" />
