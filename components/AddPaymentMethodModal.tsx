@@ -1,4 +1,4 @@
-// components/AddPaymentMethodModal.tsx - UPDATED
+// components/AddPaymentMethodModal.tsx
 import React, { useState } from 'react';
 import {
   Modal,
@@ -10,8 +10,8 @@ import {
   ActivityIndicator,
   Alert,
   ScrollView,
-  Platform, // <-- Importez Platform
-  KeyboardAvoidingView, // <-- Importez KeyboardAvoidingView
+  Platform, 
+  KeyboardAvoidingView, 
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { COLORS } from '@/constants/Colors';
